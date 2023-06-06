@@ -502,6 +502,8 @@ There’s also a manual a way to remove the Windows 11 watermark. It’s importa
 
 [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) is a small utility for configuring Windows 10/11 (and Windows Server) built-in Defender Anti-Virus settings. It is a part of Hard_Configurator project (including source files), but it can be used as a standalone application (portable).
 
+[DefenderRemover](https://github.com/jbara2002/windows-defender-remover) is a tool that removes , enables , disables Windows Defender and Security Components. Also it can create an ISO image with Windows Defender disabled or removed. It's developed by [geoni AKA jbara2002](https://github.com/jbara2002).
+
 [TweakUIX](https://github.com/builtbybel/TweakUIX) is a PowerToys/Tweak UI Replica created by [Builtbybel](https://twitter.com/builtbybel).
 
 [Winaero Tweaker](https://winaero.com/winaero-tweaker/) is an all-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features.
@@ -512,7 +514,7 @@ There’s also a manual a way to remove the Windows 11 watermark. It’s importa
 
 [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) (£2.99) is a tool enables you to use live wallpapers on your Windows desktop. Various types of animated wallpapers are supported, including 3D and 2D animations, websites, videos and even certain applications. 
 
-[Lively Wallpaper](https://rocksdanister.github.io/lively/) is a Windows application designed to turn GIFs, games, and videos into animated wallpapers. 
+[Redist Pack](https://github.com/jbara2002/redist-pack) is a script which installing neccessary runtimes sucn as DirectX, Visual Basic Runtime or VC++ and more in single place. Also this app is modular. It's developed by [geoni AKA jbara2002](https://github.com/jbara2002).
 
 **"God Mode"** is a folder that shows all things in Control Panel in one folder. To add this
 
